@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\suloc\\Desktop\\ethvaxmod _2\\SmartContract-Frontend\\my-dapp\\contracts\\Auction.sol": {
+      "lastModificationDate": 1692363521331,
+      "contentHash": "8fa8b30bd6e4f1a844806895435aa14b",
+      "sourceName": "contracts/Auction.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Auction"
+      ]
+    }
+  }
+}
