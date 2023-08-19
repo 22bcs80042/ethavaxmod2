@@ -1,5 +1,5 @@
 # ethavaxmod2
-#  create a Auction app forntend and deploy it on the Localhost network
+#  create a Auction app frontend and deploy it on the Localhost network
 This repository is made for my ethereum intermediate avax mod 2 project which is used to create a Frontend app for Auction and run it on localhost network.
 
 ## Problem Statement
